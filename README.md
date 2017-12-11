@@ -4,6 +4,7 @@ Today I Learned in English
 
 ### 업무 대화 중에서 
 - [데이터가 제대로 들어오지 않아요](dialog/data.md)
+- [디비에서 쿼리 실행](dialog/query.md)
 
 ### 업무 이메일, 문서 중에서 
 - [회의준비해서 들어오세요. 얼른 끝내게!](email/meeting.md)
