@@ -16,6 +16,14 @@
 - 데이터베이스 또한 모놀리틱 이었으며 **더 심각한 상황**이었습니다. 그것은 스토어 데이터베이스라고 부르는 **한대의 하드웨어**에서 돌아가는 큰 하나의 오라클 데이터베이스였는데, 만약 **이것이 다운되면** 모든 서비스가 다운되었습니다.  
 > The database was also monolithic in even a more severe sense. It was one piece of hardware, running one big Oracle database that we called the store database. And when this went down, everything went down. 
 
-- 그리고 매년 명절 기간 **서비스 사용이 최고 점에 도달하기 시작하면**, 우리는 이 어플리케이션의 수직적인 확장을 위해 더 좋은 하드웨어를 찾느라 허둥대고 있었습니다. 
+- 그리고 매년 명절 기간 **서비스 사용이 최고 점에 도달하기 시작하면**, 우리는 이 어플리케이션의 **수직적인 확장**을 위해 더 좋은 하드웨어를 **찾느라 허둥대고 있었습니다.**
 > And every year as we started to get into the holiday peak, we were scrambling to find bigger and bigger hardware so that we could vertically scale this application.
 
+- **아마도 발생했을** 서비스 **정지/불가상태** 외에 **공학적인 관점**에서 가장 힘들었던 부분은 바로 모든것이 **내부적으로 너무도 깊이 연결**되어 있었기에 **빠르게 움직일 수 없었던** 것이었습니다. 
+> Probably one of the most painful pieces from the engineering perspective other than that the outages that might have happend was the lack of agility that we had because everything was so deeply interconnected.
+
+- 우리는 직접 **데이터베이스를 호출**하고 있었고, 많은 어플리케이션들이 직접 테이블의 스키마를 **참조**하고 있었으며, 테이블에 칼럼을 하나 추가하는것이 **엄청 다양한 기능에 걸쳐진** 프로젝트 였던것을 기억하고 있습니다. 
+> We had direct calls into the database, we had many applications directly referencing table schemas and I can remember trying to add a column to a table was a big cross-functional project for us. 
+
+- 이런 방식은 **90년대 후반이나 2000년대 초반** 일반 적이었던 개발 패턴이었음에도 **불구하고** 현재는 **어떤 방식으로 서비스를 만들면 안되는지를** 잘 보여주는 훌륭한 예제 입니다. 
+> This is a great example of how not to build servivces today although this was the common pattern back in the late 90s and early 2000s
