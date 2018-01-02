@@ -10,3 +10,4 @@ Today I Learned in English
 - [회의준비해서 들어오세요. 얼른 끝내게!](email/meeting.md)
 
 ### 일반 영상 / 대화 중에서 
+- [Mastering Chaos - A Netflix Guide to Microservices](movie/mastering-chaos.md)
