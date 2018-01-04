@@ -31,9 +31,26 @@
 --
 
 - 이는 **다소** 추상적인 정의 입니다. **기술적으론** 굉장히 정확하지요. 하지만 제가 생각하는 마이크로 서비스를 **만든다는것이 어떤 의미인지**에 대해서는 **충분히 전달해 주지 못하는**것 같습니다. 
-> It's a somewhat abstract definition. It's very technically correct. But it doesn't really **give you enough of a flavor** I think of **what it means to build** micro services
+> It's a **somewhat** abstract definition. It's very technically correct. But it doesn't really **give you enough of a flavor** I think of **what it means to build** micro services
 
 - 제가 마이크로 서비스에 대해서 **생각할 때**, 그건 제가 **과거 2000년도에** 경험했던 모놀리틱 서비스에 대한 극단적인 반작용 **으로 생각합니다.**
-> When I think about it, I think of it as this extream reaction to that experience that I had back in 2000 with monolithic applications. 
+> **When I think about it**, I think of it as this extream reaction to that **experience that I had back in 2000** with monolithic applications. 
 
-> Separation of concerns being probably one of the most critical things that it encourages modularity, the ability to encapsulate your data structures behind something so that you don't have to deal with all of this coordination. 
+- 만약 당신이 이를 올바르게 사용한다면 그것들은 스스로 횡적으로 확장하기 쉽게 만듭니다. 
+> They **tend to lend themselves to** horizontal scaling **if you approach it correctly**.
+
+- 여러분은 하나의 작업을 좀 더 관리하기 쉬운 몇개의 작은 컴포넌트으로 쪼갤 수 있습니다. 
+> You can take your work and **break it out into smaller components which make it more manageable.** 
+
+- 여러분이 이러한 환경이 아니라면 마이크로 서비스를 운영하는것이 무척이나 더 힘들것입니다. 
+> It's much much harder to manage micro services **if you are not doing it in** this kind of environment.
+
+- 이제 넷플릭스의 구조를 간단히 보면서 어떻게 대응되는지 살펴봅시다. 
+> Let's **take a look at the** Netflix architecture a little bit and **see how that maps**
+
+- 저기 있는것은 저희 Neflix API 인데 API 게이트웨이로써 오늘날 우리의 시스템 구조에서 굉장히 중요한 부분을 차지하고 있으며 다른 모든 서비스들을 호출하여 고객의 요청을 수행하는 서비스 입니다.  
+> There's our Neflix API which is our API gateway that today it's a **part of really core to our modern architecture** **calling out into all of the other services** to **fullfill requests** for customers. 
+
+- 저기에는 몇개의 부가 서비스들도 있습니다.
+> There's some **a few auxiliary services** as well.
+
