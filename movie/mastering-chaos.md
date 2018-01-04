@@ -26,4 +26,14 @@
 > We had direct calls into the database, we had many applications directly referencing table schemas and I can remember trying to add a column to a table was a big cross-functional project for us. 
 
 - 이런 방식은 **90년대 후반이나 2000년대 초반** 일반 적이었던 개발 패턴이었음에도 **불구하고** 현재는 **어떤 방식으로 서비스를 만들면 안되는지를** 잘 보여주는 훌륭한 예제 입니다. 
-> This is a great example of how not to build servivces today although this was the common pattern back in the late 90s and early 2000s
+> This is a great example of how not to build services today although this was the common pattern back in the late 90s and early 2000s
+
+--
+
+- 이는 **다소** 추상적인 정의 입니다. **기술적으론** 굉장히 정확하지요. 하지만 제가 생각하는 마이크로 서비스를 **만든다는것이 어떤 의미인지**에 대해서는 **충분히 전달해 주지 못하는**것 같습니다. 
+> It's a somewhat abstract definition. It's very technically correct. But it doesn't really **give you enough of a flavor** I think of **what it means to build** micro services
+
+- 제가 마이크로 서비스에 대해서 **생각할 때**, 그건 제가 **과거 2000년도에** 경험했던 모놀리틱 서비스에 대한 극단적인 반작용 **으로 생각합니다.**
+> When I think about it, I think of it as this extream reaction to that experience that I had back in 2000 with monolithic applications. 
+
+> Separation of concerns being probably one of the most critical things that it encourages modularity, the ability to encapsulate your data structures behind something so that you don't have to deal with all of this coordination. 
