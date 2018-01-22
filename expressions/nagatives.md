@@ -11,7 +11,7 @@
 > **Have you ever been significantly impeded** by bad code? 
 
 * 너무 **서둘렀나요**? 
-> Were you **in a runsh?** 
+> Were you **in a rush?** 
 
 * 새로운 피처를 **추가할 수록** 코드는 **더욱 나빠져 갔고** 결국에는 **관리할 수 없는 수준**에 이르렀다. 
 > As they added **more and more** features, the code **got worse and worse until** they simply **could not manage it any longer.** 
