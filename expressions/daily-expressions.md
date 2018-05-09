@@ -1,9 +1,23 @@
-# Daily Expresssions
+# Daily Expressions
 
-#### 2018. 05. 08
-- I am writing this letter with regards to the ~ 
-- It's my birthday coming up
-- I wanted to invite you over to stay at my place for the ~
+#### 2018. 05. 08 for IELTS Writing Task 1
+- Reference: [ieltsliz](http://ieltsliz.com/ielts-letter-writing-essential-tips/)
+- I am writing this letter **with regards to the** ~ 
+- It's my birthday **coming up** and I wanted to **invite you over to stay** at my place for the ~
+- I'm **just writing to say** thank you for **the offer of joining your company**.
+- It will be great to catch up again soon. Give my best to everyone in the family. 
+- I look forward to hearing from you. 
+- Formal vs Informal
+ - You will be collected at the airport = I'll pick you up at the airport. 
+ - The next available appointment is on Thursday = How about we meet up on Thursday? 
+ - I would like to invite you to visit my house on = Why don't you **pop round to** my place on 
+ - I highly recommend that you come in August = It'd be great if you come in August. 
+ - Please respond at the earliest convenience = Get back to me as soon as you can. 
+ - Unfortunately, I will not be able to attend on = Sorry, but I won't be able to make it on..
+- By end of today, I will be up to speed with all plans.
+- I have to **own up** that I damaged the book accidentally. 
+- I've been **reading up on** the chapter about .. when I **knocked over** my cup of coffee which **splashed all over the book**. 
+- I've sent the book away to be repaired. I didn't realize **that was even possible** until I researched it. 
 
 #### 2018. 05. 03
 - Deficit
