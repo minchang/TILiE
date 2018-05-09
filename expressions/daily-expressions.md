@@ -1,12 +1,11 @@
 # Daily Expresssions
 
-- 2018. 05. 08
-
+#### 2018. 05. 08
 - I am writing this letter with regards to the ~ 
 - It's my birthday coming up
 - I wanted to invite you over to stay at my place for the ~
 
-- 2018. 05. 03
+#### 2018. 05. 03
 - Deficit
 - Pesticide can cause deficit in brain development. 
 - The problem is that the U.S. economy is under a large budget deficit. 
@@ -34,9 +33,7 @@
 - See how it goes. 
 - actual expenditure
 
-
-
-- 2018. 05. 01
+#### 2018. 05. 01
 - She was going to apply for the job. 
 - She said she would stay where she was. 
 - He is always in a good mood. 
@@ -59,13 +56,13 @@
 - He doubled down on his success. He doubled down on his racist comments. The cities are doubling down on highways. The president doubled down on his foreign policies.
 - Everything we've done , all the success we have is at its root primarily due to the fact that we have put customers first. 
 
-- 2018. 04. 30
+#### 2018. 04. 30
 - Weigh up information 
 - goot at (skills)
 - goot with (something or people you need to deal with)
 - I have confidence in my own decision.
 
-- 2018. 03. 26
+#### 2018. 03. 26
 - I'm in process of launching a feature. 
 - I don't know if it is related to my feature.
 - It's difficult to determine the cause.
