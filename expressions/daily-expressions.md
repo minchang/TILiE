@@ -1,5 +1,47 @@
 # Daily Expressions
 
+### 2018. 05. 27
+- Vancouver **has been singled out** as a prime area for software development by the company. 
+- Bangalore **has been singled out** as a prime area for European countries **to outsource to**.
+- His role **is to inform potential clients** about....
+- As you know, **we are looking into the posibility of** outsourcing our IT department overseas.
+- **This is being done in order to** cut costs. 
+- **This has resulted in** financial benefits for the company.
+- I would like to leave you with some **food for thought**.
+- Many girls, including you, **are obsessed over the way they look**
+- You need to work hard. Oppertunities does not come **out of thin air**. 
+- Minimize **a knock-on effect of** economic crisis.
+- Job market is fuelled by tens of thousands of students in the area. 
+- The high number of population **ensures** that there is **a buoyant labor market**. 
+- This has earned us the name "India's Silicon Velly"
+- Subsequently, nearly 1000 **new staff are being taken on** every month.
+
+### 2018. 05. 26
+- Plans for the new stadium **have attracted fierce criticism** from local people. 
+- **A considerable amount of money was spent on** developing the product
+- He **suffered a serious injury** which needed **immediate hospital treatment**. 
+- There are areas in the city **that are wise to avoid** after dark. 
+- **A lot of damage was caused to** buildings **along the coast** during the storm. 
+- daylight-saving time / summer time 
+- The plan was excellent, Moreover, it was clear from the beginning that **it was going to attract a lot of interest.**
+- Everybody has the **right to a decent job** with good pay.
+- During the **economic recession**, a lot of people **found themselves out of work**.
+- If you're suffering from dehydration, you should dring plenty of water and sit or lie down for a while.
+- We have a good chance of finding a cure for the disease. 
+
+#### 2018. 05. 23 
+- I'm really looking forward to this person because I have a great admiration for her. 
+- I'm amazed at her body of work
+- I think **she's doing me a huge favor.**
+- She **is flattering me** by her presence. 
+- I have **a real affection with** this theater. 
+- It's windowless concret room. 
+- kindergartner
+- My job is to keep them alive, first and foremost 
+- This is bane of my existence. 
+- obedient
+
+
 #### 2018. 05. 08 for IELTS Writing Task 1
 - Reference: [ieltsliz](http://ieltsliz.com/ielts-letter-writing-essential-tips/)
 - I am writing this letter **with regards to the** ~ 
